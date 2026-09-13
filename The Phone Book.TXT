@@ -1,6 +1,6 @@
-<color=#EA9DFF>Redd</color> ||| 7333\\
+<color=#EA9DFF>Redd ||| 7333\\
 Finneas Former ||| 3466327\\
-<color=blue>casts</color> ||| 911\\
+<color=blue>casts ||| 911\\
 SolacianAllie ||| 4407588699833\\
 myaow? ||| 123321\\
 tricksterfox ||| 621\\
@@ -42,7 +42,7 @@ Cat's Cradle Collectable Card Shop ||| 2222\\
 GrandpaVape ||| #39\\
 Lexa Willowisp ||| 037L3X4\\
 ManiaDeluxe ||| *#*\\
-RobinDouglass ||| 8177240\\
+Robin Douglass ||| 8177240\\
 Lamp ||| #*#\\
 Keiko ||| 1800ASS4CAT\\
 (Public Folder) FearedSlug7 ||| 777777\\
@@ -78,8 +78,8 @@ WebHook ||| 762569\\
 Zadkiel115 ||| 115\\
 Koy_o_T (coshote) ||| 316730\\
 Etoxxy ||| 8675309\\
-<color=#c4e6ff>Noble</color> ||| 364\\
-<color=red>CharonFaustinus</color> ||| 832768\\
+<color=#c4e6ff>Noble ||| 364\\
+<color=red>CharonFaustinus ||| 832768\\
 kaestral ||| NUMBER\\
 anquietas-sys ||| 2056\\
 GreyFoxen ||| 61524\\
@@ -91,15 +91,15 @@ mr_soup ||| 756\\
 DeGooblin ||| 000\\
 Essie ||| 37743\\
 NovaFox21 ||| 509130327\\
-<color=hero.cyan>EuphieEuphoria</color> ||| 117649\\
-<color=#8000FF>LuxKitty</color> ||| 589\\
-<color=#FFD700>GoldyRaccoony</color> ||| 755\\
+<color=hero.cyan>EuphieEuphoria ||| 117649\\
+<color=#8000FF>LuxKitt ||| 589\\
+<color=#FFD700>GoldyRaccoony ||| 755\\
 NeoGote ||| 1800NEOGOTE\\
 Kibah ||| 614958\\
 L0K ||| 101\\
 Bmaan ||| 58837\\
-<color=#00FF97FF>Garfflesnark</color> ||| 6967420\\
-<color=#FFCC7FFF>Miss Molly</color> ||| 833\\
+<color=#00FF97FF>Garfflesnark ||| 6967420\\
+<color=#FFCC7FFF>Miss Molly ||| 833\\
 <color=#ff90fa>Lieutenant <color=#78d5ff>Sparkles ||| 255144250\\
 Obi 1 ||| 42424242\\
 <color=#0047ab>CPU0NRD ||| 99877668\\
