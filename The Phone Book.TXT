@@ -101,3 +101,5 @@ Bmaan ||| 58837\\
 <color=#00FF97FF>Garfflesnark</color> ||| 6967420\\
 <color=#FFCC7FFF>Miss Molly</color> ||| 833\\
 <color=#ff90fa>Lieutenant <color=#78d5ff>Sparkles ||| 255144250\\
+Obi 1 ||| 42424242\\
+<color=#0047ab>CPU0NRD ||| 99877668\\
