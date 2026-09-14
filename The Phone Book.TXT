@@ -92,7 +92,7 @@ DeGooblin ||| 000\\
 Essie ||| 37743\\
 NovaFox21 ||| 509130327\\
 <color=hero.cyan>EuphieEuphoria ||| 117649\\
-<color=#8000FF>LuxKitt ||| 589\\
+<color=#8000FF>LuxKitty ||| 589\\
 <color=#FFD700>GoldyRaccoony ||| 755\\
 NeoGote ||| 1800NEOGOTE\\
 Kibah ||| 614958\\
