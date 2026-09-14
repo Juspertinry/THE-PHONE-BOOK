@@ -1,6 +1,6 @@
 # THE-PHONE-BOOK
 
-!(Cybertel logo)[https://github.com/Redd56/THE-PHONE-BOOK/blob/main/Cybertel%20Logo%20with%20Slogan.png]
+![Cybertel logo](Cybertel%20Logo%20with%20Slogan.png)
 
 A txt file for the resonite phone. 
 Format is as follows
