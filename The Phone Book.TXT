@@ -107,4 +107,4 @@ Obi 1 ||| 42424242\\
 Quake ||| 314159\\
 Lee ||| 257\\
 Foxen's Fabrications ||| 61524514\\
-<color=8e37b4>Cocoa ||| 26262\\
+<color=#8e37b4>Cocoa ||| 26262\\
